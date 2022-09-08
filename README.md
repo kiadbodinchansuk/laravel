@@ -1,3 +1,4 @@
 <img src="https://www.php.net/images/logos/new-php-logo.svg" width="200">   <img src="https://laravel.com/img/logomark.min.svg" width="100"> <img src="https://laravel.com/img/logotype.min.svg" width="250">  
 # laravel
 ตัวอย่าง Project Laravel Framework
+- การสร้างโปรเจค โดยใช้คำสั่ง   laravel new example-app https://laravel.com/docs/9.x
