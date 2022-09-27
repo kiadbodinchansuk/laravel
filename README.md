@@ -9,6 +9,8 @@
 
 # Laravel width mysql
 * <a href=""> Helper-function </a> การสร้าง  Helper function ใช้งานในเว็บไซต์
-* <a href=""> laravel-multi-languages </a> การสร้างเว็บไซต์ 2 ภาษา
+* <a href="https://github.com/kiadbodinchansuk/laravel/tree/main/laravel-languages"> laravel-multi-languages </a> การสร้างเว็บไซต์ 2 ภาษา
 * <a href=""> laravel-crud-mysql </a>  เริ่มต้น laravel-crud-mysql
 # Laravel width Microsoft SQL Server
+
+
